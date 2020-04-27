@@ -97,7 +97,6 @@ h2 {
 }
 img {
   width: 65%;
-  margin-left: 65px;
 }
 body {
   margin-top: 4em;
@@ -107,6 +106,10 @@ body {
 hr {
   border: 0;
   border-bottom: 1px solid #f1ecec;
+}
+
+.section__image {
+   margin-left: 75px;
 }
 
 .container {
